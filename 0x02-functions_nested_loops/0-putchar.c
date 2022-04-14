@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- * Return: returns void 
+ *
+ * Return: returns void
  */
 
 int main(void)
